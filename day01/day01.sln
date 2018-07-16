@@ -31,6 +31,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inherit", "Inherit\Inherit.csproj", "{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poly", "Poly\Poly.csproj", "{6C2CC202-86C8-44DB-A212-07A9C4A35C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverLoadOp", "OverLoadOp\OverLoadOp.csproj", "{F9485F4F-27C1-42CF-958C-042B33265111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{CC8CFF3E-EB80-432F-B173-535114166FF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -97,6 +103,18 @@ Global
 		{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}.Debug|x86.Build.0 = Debug|x86
 		{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}.Release|x86.ActiveCfg = Release|x86
 		{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}.Release|x86.Build.0 = Release|x86
+		{6C2CC202-86C8-44DB-A212-07A9C4A35C60}.Debug|x86.ActiveCfg = Debug|x86
+		{6C2CC202-86C8-44DB-A212-07A9C4A35C60}.Debug|x86.Build.0 = Debug|x86
+		{6C2CC202-86C8-44DB-A212-07A9C4A35C60}.Release|x86.ActiveCfg = Release|x86
+		{6C2CC202-86C8-44DB-A212-07A9C4A35C60}.Release|x86.Build.0 = Release|x86
+		{F9485F4F-27C1-42CF-958C-042B33265111}.Debug|x86.ActiveCfg = Debug|x86
+		{F9485F4F-27C1-42CF-958C-042B33265111}.Debug|x86.Build.0 = Debug|x86
+		{F9485F4F-27C1-42CF-958C-042B33265111}.Release|x86.ActiveCfg = Release|x86
+		{F9485F4F-27C1-42CF-958C-042B33265111}.Release|x86.Build.0 = Release|x86
+		{CC8CFF3E-EB80-432F-B173-535114166FF0}.Debug|x86.ActiveCfg = Debug|x86
+		{CC8CFF3E-EB80-432F-B173-535114166FF0}.Debug|x86.Build.0 = Debug|x86
+		{CC8CFF3E-EB80-432F-B173-535114166FF0}.Release|x86.ActiveCfg = Release|x86
+		{CC8CFF3E-EB80-432F-B173-535114166FF0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

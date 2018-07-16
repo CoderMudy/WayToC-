@@ -1,0 +1,4 @@
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Interface\bin\Debug\Interface.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Interface\bin\Debug\Interface.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Interface\obj\x86\Debug\Interface.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Interface\obj\x86\Debug\Interface.pdb

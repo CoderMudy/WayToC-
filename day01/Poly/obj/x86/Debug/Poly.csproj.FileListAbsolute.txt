@@ -1,0 +1,4 @@
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Poly\bin\Debug\Poly.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Poly\bin\Debug\Poly.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Poly\obj\x86\Debug\Poly.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Poly\obj\x86\Debug\Poly.pdb

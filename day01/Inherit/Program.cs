@@ -26,7 +26,6 @@ namespace Inherit
 
     public interface PaintCost
     {
-        Console.WriteLine("接口中的代码");
         int getCost(int area);
     }
 
