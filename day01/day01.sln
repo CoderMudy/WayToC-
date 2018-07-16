@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{3B9B2382-826C-4A3B-902D-7A8F2213C7F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inherit", "Inherit\Inherit.csproj", "{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -91,6 +93,10 @@ Global
 		{3B9B2382-826C-4A3B-902D-7A8F2213C7F4}.Debug|x86.Build.0 = Debug|x86
 		{3B9B2382-826C-4A3B-902D-7A8F2213C7F4}.Release|x86.ActiveCfg = Release|x86
 		{3B9B2382-826C-4A3B-902D-7A8F2213C7F4}.Release|x86.Build.0 = Release|x86
+		{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}.Debug|x86.ActiveCfg = Debug|x86
+		{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}.Debug|x86.Build.0 = Debug|x86
+		{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}.Release|x86.ActiveCfg = Release|x86
+		{B7C70B6D-A0BA-4B5E-B895-E3E9D51E109F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

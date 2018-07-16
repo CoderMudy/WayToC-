@@ -1,0 +1,4 @@
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Inherit\bin\Debug\Inherit.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Inherit\bin\Debug\Inherit.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Inherit\obj\x86\Debug\Inherit.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Inherit\obj\x86\Debug\Inherit.pdb
