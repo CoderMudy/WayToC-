@@ -1,0 +1,4 @@
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\DataType\bin\Debug\DataType.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\DataType\bin\Debug\DataType.pdb
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\DataType\obj\x86\Debug\DataType.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\DataType\obj\x86\Debug\DataType.pdb

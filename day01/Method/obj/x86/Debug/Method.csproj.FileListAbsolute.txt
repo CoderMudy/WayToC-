@@ -1,0 +1,4 @@
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Method\bin\Debug\Method.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Method\bin\Debug\Method.pdb
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Method\obj\x86\Debug\Method.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Method\obj\x86\Debug\Method.pdb

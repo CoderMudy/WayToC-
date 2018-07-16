@@ -1,0 +1,4 @@
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\String\bin\Debug\String.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\String\bin\Debug\String.pdb
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\String\obj\x86\Debug\String.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\String\obj\x86\Debug\String.pdb

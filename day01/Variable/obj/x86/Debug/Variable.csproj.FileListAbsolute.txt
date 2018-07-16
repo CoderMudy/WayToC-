@@ -1,0 +1,4 @@
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Variable\bin\Debug\Variable.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Variable\bin\Debug\Variable.pdb
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Variable\obj\x86\Debug\Variable.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Variable\obj\x86\Debug\Variable.pdb

@@ -1,0 +1,4 @@
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Struct\bin\Debug\Struct.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Struct\bin\Debug\Struct.pdb
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Struct\obj\x86\Debug\Struct.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Struct\obj\x86\Debug\Struct.pdb

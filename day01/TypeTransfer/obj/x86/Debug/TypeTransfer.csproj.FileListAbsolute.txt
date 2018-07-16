@@ -1,0 +1,4 @@
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\TypeTransfer\bin\Debug\TypeTransfer.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\TypeTransfer\bin\Debug\TypeTransfer.pdb
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\TypeTransfer\obj\x86\Debug\TypeTransfer.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\TypeTransfer\obj\x86\Debug\TypeTransfer.pdb

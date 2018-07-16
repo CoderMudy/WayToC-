@@ -1,0 +1,4 @@
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\encap\bin\Debug\encap.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\encap\bin\Debug\encap.pdb
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\encap\obj\x86\Debug\encap.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\encap\obj\x86\Debug\encap.pdb

@@ -1,0 +1,4 @@
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Enum\bin\Debug\Enum.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Enum\bin\Debug\Enum.pdb
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Enum\obj\x86\Debug\Enum.exe
+C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Enum\obj\x86\Debug\Enum.pdb
