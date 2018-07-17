@@ -2,3 +2,7 @@ C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Nullable\bin\Deb
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Nullable\bin\Debug\Nullable.pdb
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Nullable\obj\x86\Debug\Nullable.exe
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Nullable\obj\x86\Debug\Nullable.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Nullable\bin\Debug\Nullable.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Nullable\bin\Debug\Nullable.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Nullable\obj\x86\Debug\Nullable.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Nullable\obj\x86\Debug\Nullable.pdb

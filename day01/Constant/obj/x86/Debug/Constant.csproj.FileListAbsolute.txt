@@ -2,3 +2,7 @@ C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Constant\bin\Deb
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Constant\bin\Debug\Constant.pdb
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Constant\obj\x86\Debug\Constant.exe
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Constant\obj\x86\Debug\Constant.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Constant\bin\Debug\Constant.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Constant\bin\Debug\Constant.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Constant\obj\x86\Debug\Constant.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Constant\obj\x86\Debug\Constant.pdb

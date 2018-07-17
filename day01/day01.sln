@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverLoadOp", "OverLoadOp\Ov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{CC8CFF3E-EB80-432F-B173-535114166FF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo01", "demo01\demo01.csproj", "{F375383A-729F-474F-8813-CDFCC11ED698}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -115,6 +117,10 @@ Global
 		{CC8CFF3E-EB80-432F-B173-535114166FF0}.Debug|x86.Build.0 = Debug|x86
 		{CC8CFF3E-EB80-432F-B173-535114166FF0}.Release|x86.ActiveCfg = Release|x86
 		{CC8CFF3E-EB80-432F-B173-535114166FF0}.Release|x86.Build.0 = Release|x86
+		{F375383A-729F-474F-8813-CDFCC11ED698}.Debug|x86.ActiveCfg = Debug|x86
+		{F375383A-729F-474F-8813-CDFCC11ED698}.Debug|x86.Build.0 = Debug|x86
+		{F375383A-729F-474F-8813-CDFCC11ED698}.Release|x86.ActiveCfg = Release|x86
+		{F375383A-729F-474F-8813-CDFCC11ED698}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

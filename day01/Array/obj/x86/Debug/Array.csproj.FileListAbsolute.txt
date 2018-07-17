@@ -2,3 +2,7 @@ C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Array\bin\Debug\
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Array\bin\Debug\Array.pdb
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Array\obj\x86\Debug\Array.exe
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\Array\obj\x86\Debug\Array.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Array\bin\Debug\Array.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Array\bin\Debug\Array.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Array\obj\x86\Debug\Array.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\Array\obj\x86\Debug\Array.pdb

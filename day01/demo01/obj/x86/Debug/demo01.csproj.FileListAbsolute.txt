@@ -1,0 +1,12 @@
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\demo01.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\demo01.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\Ivony.Core.dll
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\Ivony.Html.dll
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\Ivony.Html.Parser.dll
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\Ivony.Html.Parser.Regulars.dll
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\Ivony.Core.xml
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\Ivony.Html.xml
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\bin\Debug\Ivony.Html.Parser.xml
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\obj\x86\Debug\demo01.csprojResolveAssemblyReference.cache
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\obj\x86\Debug\demo01.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\demo01\obj\x86\Debug\demo01.pdb

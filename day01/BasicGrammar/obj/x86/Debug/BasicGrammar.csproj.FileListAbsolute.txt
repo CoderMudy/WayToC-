@@ -2,3 +2,7 @@ C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\BasicGrammar\bin
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\BasicGrammar\bin\Debug\BasicGrammar.pdb
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\BasicGrammar\obj\x86\Debug\BasicGrammar.exe
 C:\Users\mudy\documents\visual studio 2010\CSahpeProjects\day01\BasicGrammar\obj\x86\Debug\BasicGrammar.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\BasicGrammar\bin\Debug\BasicGrammar.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\BasicGrammar\bin\Debug\BasicGrammar.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\BasicGrammar\obj\x86\Debug\BasicGrammar.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\day01\BasicGrammar\obj\x86\Debug\BasicGrammar.pdb
