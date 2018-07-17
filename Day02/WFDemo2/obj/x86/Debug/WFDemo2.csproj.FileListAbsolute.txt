@@ -1,0 +1,8 @@
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\WFDemo2\bin\Debug\WFDemo2.exe
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\WFDemo2\bin\Debug\WFDemo2.pdb
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\WFDemo2\obj\x86\Debug\WFDemo2.exe
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\WFDemo2\obj\x86\Debug\WFDemo2.pdb
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\WFDemo2\obj\x86\Debug\WFDemo2.Input.resources
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\WFDemo2\obj\x86\Debug\WFDemo2.csproj.GenerateResource.Cache
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day02\WFDemo2\obj\x86\Debug\WFDemo2.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day02\WFDemo2\obj\x86\Debug\WFDemo2.pdb

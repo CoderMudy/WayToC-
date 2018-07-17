@@ -1,0 +1,8 @@
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\Day02\bin\Debug\Day02.exe
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\Day02\bin\Debug\Day02.pdb
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\Day02\obj\x86\Debug\Day02.Properties.Resources.resources
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\Day02\obj\x86\Debug\Day02.csproj.GenerateResource.Cache
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\Day02\obj\x86\Debug\Day02.exe
+c:\users\mudy\documents\visual studio 2010\CSahpeProjects\Day02\Day02\obj\x86\Debug\Day02.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day02\Day02\obj\x86\Debug\Day02.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day02\Day02\obj\x86\Debug\Day02.pdb
