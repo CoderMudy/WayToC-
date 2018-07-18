@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Ivony.Html;
 using Ivony.Html.Parser;
+using System.Xml.XPath;
 
 namespace demo01
 {

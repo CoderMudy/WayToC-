@@ -1,0 +1,10 @@
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\obj\x86\Debug\Day03.csprojResolveAssemblyReference.cache
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\bin\Debug\Day03.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\bin\Debug\Day03.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\obj\x86\Debug\Day03.exe
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\obj\x86\Debug\Day03.pdb
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\obj\x86\Debug\HtmlAgilityPackDemo1.Form1.resources
+C:\Users\mudy\Documents\Visual Studio 2010\CSahpeProjects\WayToCShape\Day03\Day03\obj\x86\Debug\Day03.csproj.GenerateResource.Cache
